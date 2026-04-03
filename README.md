@@ -1,4 +1,4 @@
-This is a how to guide to setup RetroArch 
+This is a how to guide to setup RetroArch or Bizhawk (Windows Only)
 
 Overview of QUsb2Snes and SNI
 - Both QUsb2Snes and SNI are tools designed to enhance the experience of playing SNES games, particularly in the context of randomizers and multiplayer setups. They serve different purposes and have unique features.
