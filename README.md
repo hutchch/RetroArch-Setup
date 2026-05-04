@@ -1,4 +1,9 @@
 This is a how to guide to setup RetroArch, Bizhawk (Windows Only), SNES9x-ENUNWA (Windows Only).
+Tested with:
+ - RetroArch Version 1.22.2 (1)
+ - Bizhawk Version 2.11 and 2.11.1
+ - SNES9x-ENUWA Version 1.6.3(nwa)
+
 
 Overview of QUsb2Snes and SNI
 - Both QUsb2Snes and SNI are tools designed to enhance the experience of playing SNES games, particularly in the context of randomizers and multiplayer setups. They serve different purposes and have unique features.
